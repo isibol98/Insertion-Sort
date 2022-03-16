@@ -46,5 +46,5 @@ O(n^2)
 4-[2,3,5,7,8|9,4,15,6]
 
 **************************************************************************************************************************************************************************
-
-[Patika](https://app.patika.dev/moduller/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
+[Patika](www.patika.dev)
+[Patika Insertion Sort Project](https://app.patika.dev/moduller/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
