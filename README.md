@@ -47,4 +47,5 @@ O(n^2)
 
 **************************************************************************************************************************************************************************
 [Patika](www.patika.dev)
+
 [Patika Insertion Sort Project](https://app.patika.dev/moduller/veri-yapilari-ve-algoritmalar/insertion-sort-proje)
