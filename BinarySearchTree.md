@@ -31,4 +31,5 @@ Root = 7
    ***************
 
 [Patika](www.patika.dev)
+
 [Binary Search Projesi](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje)
